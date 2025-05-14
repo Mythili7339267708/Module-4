@@ -1,4 +1,4 @@
-# e\Ex:4(d) Exception Handling in Python: Avoiding Index Errors
+# Ex:4(d) Exception Handling in Python: Avoiding Index Errors
 
 ## 🎯 Aim
 To write a Python program that handles an **IndexError** when trying to access an element beyond the available range of a list.
